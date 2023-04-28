@@ -1,0 +1,12 @@
+README.md
+api/openapi.yaml
+openapi/api.go
+openapi/api_pets.go
+openapi/api_pets_service.go
+openapi/error.go
+openapi/helpers.go
+openapi/impl.go
+openapi/logger.go
+openapi/model_error.go
+openapi/model_pet.go
+openapi/routers.go
